@@ -2,21 +2,21 @@
   <Name>New CodeWalker Project</Name>
   <Version value="1" />
   <YmapFilenames>
-    <Item>map1.ymap</Item>
-    <Item>..\hei_id2_21_b_strm_0.ymap</Item>
-    <Item>..\hei_id2_rdb_strm_1.ymap</Item>
-    <Item>..\hei_id2_21_a_strm_1.ymap</Item>
-    <Item>..\hei_id2_21_strm_0.ymap</Item>
-    <Item>..\hei_id2_21_d_strm_0.ymap</Item>
-    <Item>..\hei_id2_rdb_strm_0.ymap</Item>
-    <Item>..\hei_id2_21_d_strm_1.ymap</Item>
-    <Item>..\hei_id2_21_c_strm_0.ymap</Item>
-    <Item>..\hei_id2_rdb_long_0.ymap</Item>
-    <Item>..\hei_id2_21_c_strm_2.ymap</Item>
-    <Item>..\hei_id2_rdb.ymap</Item>
-    <Item>..\hei_id2_rdb_strm_2.ymap</Item>
-    <Item>..\hei_id2_21_f_strm_0.ymap</Item>
+    <Item>cleanmirrorpark.ymap</Item>
+    <Item>hei_id2_21_a_strm_1.ymap</Item>
+    <Item>hei_id2_21_b_strm_0.ymap</Item>
+    <Item>hei_id2_21_c_strm_0.ymap</Item>
     <Item>hei_id2_21_c_strm_1.ymap</Item>
+    <Item>hei_id2_21_c_strm_2.ymap</Item>
+    <Item>hei_id2_21_d_strm_0.ymap</Item>
+    <Item>hei_id2_21_d_strm_1.ymap</Item>
+    <Item>hei_id2_21_f_strm_0.ymap</Item>
+    <Item>hei_id2_21_strm_0.ymap</Item>
+    <Item>hei_id2_rdb.ymap</Item>
+    <Item>hei_id2_rdb_long_0.ymap</Item>
+    <Item>hei_id2_rdb_strm_0.ymap</Item>
+    <Item>hei_id2_rdb_strm_1.ymap</Item>
+    <Item>hei_id2_rdb_strm_2.ymap</Item>
   </YmapFilenames>
   <YtypFilenames />
   <YbnFilenames />
